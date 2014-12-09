@@ -9,7 +9,6 @@ Original image looks like:
 Two generated images are like: 
 
 ![alt tag](https://raw.githubusercontent.com/Tony-Mao/temporalGrating/master/1.png)
-and 
 ![alt tag](https://raw.githubusercontent.com/Tony-Mao/temporalGrating/master/2.png)
 
 The animation (frame rate 50Hz) gif is like: 
