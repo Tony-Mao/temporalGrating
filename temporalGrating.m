@@ -8,7 +8,7 @@ photop = photo;
 photon = photo;
 
 blocksize = 2; % n*n minimum block size
-blocknum = imgsize/blocksize; % the addition or subtraction pixel intensity within a block is consitent
+blocknum = imgsize/blocksize; % the addition or subtraction pixel intensity within a block is consistent
 for i = 0 : blocknum-1
     for j = 0 : blocknum-1
         get_rand = rand;
